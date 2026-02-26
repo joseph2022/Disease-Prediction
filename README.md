@@ -121,12 +121,12 @@ The final model and scaler are saved as:
 
 ---
 
-Heart Disease Predictor/
+Disease-Prediction/
 │
 ├── app.py
 ├── heart_disease_model.pkl
 ├── scaler.pkl
-├── Heart_Disease2.ipynb
+├── Heart_DIsease2.ipynb
 ├── requirements.txt
 └── README.md
 
